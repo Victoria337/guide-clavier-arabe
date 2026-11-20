@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victoria337.github.io/guide-clavier-arabe/sitemap.xml
